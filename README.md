@@ -6,7 +6,7 @@ I am a junior @ FCS Innovation Academy, passionate about exploring the realms of
 ## 🚀 What I'm Up To
 
 - 🤖 Exploring Machine Learning with [scikit-learn](https://scikit-learn.org/)
-- 💻 Building Spring Boot applications with PostgreSQL
+- 💻 Building 3D Web Apps with Next.js, React, & Others
 
 Check out my [coding portfolio!](https://amanibobo.vercel.app/)
 
