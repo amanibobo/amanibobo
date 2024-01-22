@@ -8,7 +8,7 @@ I am a junior @ FCS Innovation Academy, passionate about exploring the realms of
 - 🤖 Exploring Machine Learning with [scikit-learn](https://scikit-learn.org/)
 - 💻 Building Spring Boot applications with PostgreSQL
 
-Check out my [coding portfolio!](https://erikc-portfolio.netlify.app/)
+Check out my [coding portfolio!](https://amanibobo.vercel.app/)
 
 ## 🎓 About Me
 
