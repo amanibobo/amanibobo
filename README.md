@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋 I'm Amani Bobo</h1>
 
-# 💫 About Me:
+## 💫 About Me:
 I am a junior @ FCS Innovation Academy, passionate about exploring the realms of coding, machine learning, and building robust applications.
 
 ## 🚀 What I'm Up To
