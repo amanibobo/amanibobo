@@ -11,5 +11,5 @@ I am a junior @ FCS Innovation Academy, passionate about exploring the realms of
 Check out my [coding portfolio!](https://amanibobo.vercel.app/)
 
 
-## 🌐 Connect with me:
+## 🌐 Connect With Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amanibobo/)
