@@ -5,8 +5,6 @@
 
 ---
 
-## 🚀 About Me
-
 I'm an **incoming freshman at Georgia State University**, passionate about exploring the fascinating worlds of **coding**, **machine learning**, and building **robust applications** that make a difference.
 
 - 🎓 **Student** at Georgia State University
@@ -15,8 +13,6 @@ I'm an **incoming freshman at Georgia State University**, passionate about explo
 - 🌟 Always eager to learn and take on new challenges
 
 ---
-
-## 🛠️ Tech Stack
 
 <div>
 
