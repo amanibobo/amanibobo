@@ -7,11 +7,6 @@
 
 I'm an **incoming freshman at Georgia State University**, passionate about exploring the fascinating worlds of **coding**, **machine learning**, and building **robust applications** that make a difference.
 
-- 🎓 **Student** at Georgia State University
-- 🤖 **Machine Learning** enthusiast
-- 💻 **Full Stack Developer** specializing in modern web technologies
-- 🌟 Always eager to learn and take on new challenges
-
 ---
 
 <div>
